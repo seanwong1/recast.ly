@@ -23,3 +23,4 @@ VideoList.propTypes = {
 // `var` declarations will only exist globally where explicitly defined.
 import VideoListEntry from './VideoListEntry.js';
 export default VideoList;
+// change
