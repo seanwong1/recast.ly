@@ -4,6 +4,8 @@ var App = () => {
   const [videos, isInList] = useState([]);
   const [currentVideo, playVideo] = useState(exampleVideoData[0]);
 
+  console.log('hello');
+
   return (
     <div>
       <nav className="navbar">
