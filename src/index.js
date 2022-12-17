@@ -3,4 +3,4 @@ import App from './components/App.js';
 
 //console.log(exampleVideoData);
 
-ReactDOM.render(<App />, document.getElementById("app"));
+ReactDOM.render(<App />, document.getElementById('app'));
